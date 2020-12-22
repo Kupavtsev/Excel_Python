@@ -1,0 +1,5 @@
+plotly_express
+plotly
+pandas
+xlrd==1.2.0
+openpyx1
